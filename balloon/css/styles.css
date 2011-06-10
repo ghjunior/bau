@@ -31,7 +31,7 @@ header {z-index:5; position:absolute; display:none;}
   30% {
     -webkit-transform: scale(1.0) translate(-15px, -20px);
   }
-  64% {
+  74% {
     -webkit-transform: scale(1.05) translate(+30px, -10px);
   }
   to { 
@@ -46,7 +46,7 @@ header {z-index:5; position:absolute; display:none;}
   27% {
   	-webkit-transform: translate(+70px, -20px) scale(0.8);
   }
-  67% {
+  77% {
     -webkit-transform: translate(-50px, -30px) scale(0.8);
   }
   to { 
@@ -58,10 +58,10 @@ header {z-index:5; position:absolute; display:none;}
   from {
     -webkit-transform: translate(+60px, -100px) scale(0.7);
   }
-  43% {
+  40% {
   	-webkit-transform: translate(-110px, -65px) scale(0.8);
   }
-  82% {
+  84% {
     -webkit-transform: translate(+100px, -72px) scale(0.6);
   }
   to { 
@@ -76,7 +76,7 @@ header {z-index:5; position:absolute; display:none;}
   37% {
     -webkit-transform: scale(1.0) translate(-50px, -8px);
   }
-  65% {
+  75% {
     -webkit-transform: scale(1.0) translate(+75px, -5px);
   }
   to { 
@@ -91,7 +91,7 @@ header {z-index:5; position:absolute; display:none;}
   30% {
     -webkit-transform: scale(1.0) translate(-15px, -20px);
   }
-  64% {
+  74% {
     -webkit-transform: scale(1.05) translate(+30px, -10px);
   }
   to { 
@@ -106,7 +106,7 @@ header {z-index:5; position:absolute; display:none;}
   27% {
   	-webkit-transform: translate(+70px, -20px) scale(0.8);
   }
-  67% {
+  77% {
     -webkit-transform: translate(-50px, -30px) scale(0.8);
   }
   to { 
@@ -118,10 +118,10 @@ header {z-index:5; position:absolute; display:none;}
   from {
     -webkit-transform: translate(+60px, -100px) scale(0.7);
   }
-  43% {
+  40% {
   	-webkit-transform: translate(-110px, -65px) scale(0.8);
   }
-  82% {
+  84% {
     -webkit-transform: translate(+100px, -72px) scale(0.6);
   }
   to { 
@@ -136,7 +136,7 @@ header {z-index:5; position:absolute; display:none;}
   37% {
     -webkit-transform: scale(1.0) translate(-50px, -8px);
   }
-  65% {
+  75% {
     -webkit-transform: scale(1.0) translate(+75px, -5px);
   }
   to { 
@@ -146,36 +146,36 @@ header {z-index:5; position:absolute; display:none;}
 
 .cssanimations #cloud-one {
 	-webkit-animation-name: cloud-one-anim;
-  -webkit-animation-duration: 50s;
+  -webkit-animation-duration: 40s;
   -webkit-animation-iteration-count: infinite;
 	-moz-animation-name: cloud-one-anim;
-  -moz-animation-duration: 50s;
+  -moz-animation-duration: 40s;
   -moz-animation-iteration-count: infinite;
 }
 
 .cssanimations #cloud-two {
 	-webkit-animation-name: cloud-two-anim;
-  -webkit-animation-duration: 50s;
+  -webkit-animation-duration: 40s;
   -webkit-animation-iteration-count: infinite;
 	-moz-animation-name: cloud-two-anim;
-  -moz-animation-duration: 50s;
+  -moz-animation-duration: 40s;
   -moz-animation-iteration-count: infinite;
 }
 
 .cssanimations #cloud-three {
 	-webkit-animation-name: cloud-three-anim;
-  -webkit-animation-duration: 50s;
+  -webkit-animation-duration: 40s;
   -webkit-animation-iteration-count: infinite;
 	-moz-animation-name: cloud-three-anim;
-  -moz-animation-duration: 50s;
+  -moz-animation-duration: 40s;
   -moz-animation-iteration-count: infinite;
 }
 
 .cssanimations #balloon { 
   -webkit-animation-name: balloon-anim;
-  -webkit-animation-duration: 50s;
+  -webkit-animation-duration: 40s;
   -webkit-animation-iteration-count: infinite;
   -moz-animation-name: balloon-anim;
-  -moz-animation-duration: 50s;
+  -moz-animation-duration: 40s;
   -moz-animation-iteration-count: infinite;
 }
