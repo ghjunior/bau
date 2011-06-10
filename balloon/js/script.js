@@ -28,5 +28,6 @@ jQuery(document).ready(function($) {
 		var audio = new Audio();
 		audio.src = (Modernizr.audio.ogg)? 'audio/yo-la-tengo-leaving-home.ogg' : 'audio/yo-la-tengo-leaving-home.mp3';
 		audio.play();
+		console.log(audio);
 	}
 });
